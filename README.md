@@ -14,3 +14,16 @@ We Also Give Some Apps/Games/Websites For Free.
 # For Any Help Please Contact Us
 
 rbd.developer@gmail.com
+
+
+
+# Staff Requirements
+
+We Need Some Staffs Who Help Us For Free .
+
+We Are Only 50 Person In Our Team.
+
+For Applying For Staff Just Mail Us
+
+rbd.developer@gmail.com
+
