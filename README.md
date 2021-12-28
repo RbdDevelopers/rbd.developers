@@ -36,7 +36,7 @@ rbd.developer@gmail.com
 
 
 
-https://raw.githubusercontent.com/RbdDevelopers/rbd.developers/main/RBD-12-26-2021.png
+![Alt text](https://raw.githubusercontent.com/RbdDevelopers/rbd.developers/main/RBD-12-26-2021.png)
 
 
 
